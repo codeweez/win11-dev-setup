@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/setup.ps1",
+      "source": "/win11-dev-setup.ps1",
       "destination": "https://raw.githubusercontent.com/codeweez/win11-dev-setup/refs/heads/main/win11-dev-setup.ps1",
       "permanent": false
     }
